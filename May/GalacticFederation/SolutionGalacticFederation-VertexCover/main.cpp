@@ -4,13 +4,12 @@
 #include <climits>
 #define NMAX 500000
 using namespace std;
-
 int dp[NMAX];
 int n;
 int cost[NMAX];
 std::vector<int> neighbours[NMAX];
 bool visited[NMAX];
-
+// reading the input
 void readInput() {
     cin >> n;
     for (long i = 0; i < n; i++) {
