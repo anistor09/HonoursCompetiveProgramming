@@ -1,0 +1,1 @@
+Initially the "fair" and "normal" instances were uploaded to domjudge. However afterwards Tim Huisman noted an issue that revealed that the instances were not thorough enough to rule out incorrect algorithms. For this reason we added "extra instances".

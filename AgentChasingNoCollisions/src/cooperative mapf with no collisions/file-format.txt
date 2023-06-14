@@ -1,0 +1,16 @@
+All vertices are 0-indexed.
+
+.in files have the following format:
+
+[vertex count] [edge count] [agent/target count]
+[source_vertex] [target_vertex] [weight/cost/traversal time] # for every edge
+[start_vertex] # for every agent
+[target_path_length]                      # for every target (length + path)
+[target_path_position] [target_path_time] # for every position
+
+.ans files have the following format:
+
+[objective_value] # either the optimal makespan or sum of costs
+
+.sol files have the following format:
+[agent] [target] [end_vertex] [end_time] # for every agent-target pair

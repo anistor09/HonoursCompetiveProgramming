@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.25"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "SolutionGalacticFederation_VertexCover",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "SolutionGalacticFederation_VertexCover::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-SolutionGalacticFederation_VertexCover-Debug-750b8e369f2a140a87f5.json",
+					"name" : "SolutionGalacticFederation_VertexCover",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/UniProjects/HonoursCompetitiveProgramming/May/GalacticFederation/SolutionGalacticFederation-VertexCover/cmake-build-debug",
+		"source" : "C:/UniProjects/HonoursCompetitiveProgramming/May/GalacticFederation/SolutionGalacticFederation-VertexCover"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}
