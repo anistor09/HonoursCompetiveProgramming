@@ -10,6 +10,7 @@ int cost[NMAX];
 std::vector<int> neighbours[NMAX];
 bool visited[NMAX];
 // reading the input
+// comm
 void readInput() {
     cin >> n;
     for (long i = 0; i < n; i++) {
